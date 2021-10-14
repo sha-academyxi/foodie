@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
 
   URL = "https://example.com"
 
-  spec.name          = "foodie"
+  spec.name          = "shaliu_foodie"
   spec.version       = Foodie::VERSION
   spec.authors       = ["SET mentor"]
   spec.email         = ["setmentor_parttime02@academyxi.com"]
